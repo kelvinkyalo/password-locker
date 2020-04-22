@@ -15,4 +15,4 @@
 # License
 
 * MIT
-* Copyright (C) 2020-Kelvil
+* Copyright (C) 2020-Kelvi
