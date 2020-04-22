@@ -15,4 +15,4 @@
 # License
 
 * MIT
-* Copyright (C) 2020-Kelviyalo
+* Copyright (C) 2020-Kelvialo
