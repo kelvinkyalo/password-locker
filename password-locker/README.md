@@ -6,7 +6,7 @@
 
 # Description
 
-* An application that allows users to generate and store passwords named credentials.
+* An application that allows users to generate and store passwords named accounts.
 
 # Technologies used 
 
