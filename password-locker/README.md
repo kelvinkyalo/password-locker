@@ -15,4 +15,4 @@
 # License
 
 * MIT
-* Copyright (C) 2020-Ke
+* Copyright (C) 2020-K
