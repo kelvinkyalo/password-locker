@@ -15,4 +15,5 @@
 # License
 
 * MIT
-* Copyright (C) 2020-kelvin
+* Copyright (C) 2020-kelvinkyalo.
+
